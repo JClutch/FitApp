@@ -5,6 +5,7 @@
 
 # dependencies
 /node_modules
+/webAPI/src/www/bundle.js
 
 # misc
 .env.local
@@ -15,3 +16,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/database/config.js
+TOKENS.js
+.DS_Store
+
+serviceAccount.json
+/webAPI/src/www/bundle.js
